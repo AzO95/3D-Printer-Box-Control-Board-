@@ -1,4 +1,7 @@
 03/19/2019 Alpha 1.0.0
+  Disclammer added
   Check functions added
-  Restart the board after the verification functions if the status bug is present, function implemented in check_functions.py
+  Restart the board after the verification functions if the status bug is present, a function implemented in check_functions.py
   State gpio return for Node-red
+  progress bar indicating the progress of the function check, a function implemented in check_functions.py
+  
