@@ -1,3 +1,4 @@
 03/19/2019 Alpha 1.0.0
   Check functions added
-  Reboot board implemented in check_functions.py
+  Restart the board after the verification functions if the status bug is present, function implemented in check_functions.py
+  State gpio return for Node-red
